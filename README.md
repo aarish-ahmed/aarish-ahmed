@@ -93,16 +93,14 @@ Interested in creating practical digital products with clean UI and solid functi
 
 <div align="center">
 
-<a href="https://github.com/aarish-ahmed">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/aarish-ahmed" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-</div>
+&nbsp;&nbsp;&nbsp;
 
----
-
-<div align="center">
-
-### "Build skills quietly. Let the work speak."
+<a href="https://www.linkedin.com/in/jubaied-hossen-zedan" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
 
 </div>
