@@ -24,17 +24,17 @@
 
 # About Me
 
-```js
-const aarish = {
-    role: "Full Stack Developer",
-    technologies: ["MERN Stack", "Next.js", "WebSockets", "AI Integration"],
-    currentFocus: "Building scalable and modern web applications",
-    learning: ["Next.js", "Real-time Systems", "AI-powered Applications"],
-    mindset: "Consistency > Motivation"
-};
-```
+# About Me
 
----
+Full-stack developer focused on building modern, scalable, and user-focused web applications.
+
+Currently exploring:
+- Next.js
+- WebSockets
+- AI integration in web applications
+- Better backend architecture and system design
+
+Interested in creating practical digital products with clean UI and solid functionality.
 
 # Tech Stack
 
