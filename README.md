@@ -20,9 +20,7 @@
 
 </div>
 
----
-
-# About Me
+--
 
 # About Me
 
