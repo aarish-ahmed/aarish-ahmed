@@ -1,6 +1,6 @@
 <div align="center">
 
-# i am Aarish Ahmed Zedan
+# Aarish Ahmed Zedan
 
 ### Full Stack Developer • MERN Stack • Modern Web Applications
 
