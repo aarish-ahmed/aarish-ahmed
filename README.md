@@ -91,16 +91,12 @@ Interested in creating practical digital products with clean UI and solid functi
 
 # Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/aarish-ahmed" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/jubaied-hossen-zedan" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/aarish-ahmed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/jubaied-hossen-zedan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
